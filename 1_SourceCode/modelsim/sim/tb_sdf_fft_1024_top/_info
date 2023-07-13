@@ -1,0 +1,157 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/study_file/SEU/GoodwayHouse/SDF_FFT/Output/SDF_FFT_1.0
+vbutterfly
+Z1 !s110 1681893612
+!i10b 1
+!s100 aS:oW?a^Xo8>SZLm^F6nX3
+If9fSAC:DM9;6Ra3B^?4AD3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1681799910
+8./1_SourceCode/modelsim/tb/butterfly.v
+F./1_SourceCode/modelsim/tb/butterfly.v
+Z3 L0 23
+Z4 OP;L;10.6c;65
+r1
+!s85 0
+31
+Z5 !s108 1681893612.000000
+!s107 ./1_SourceCode/modelsim/tb/twiddle_rom_1024.v|./1_SourceCode/modelsim/tb/tb_sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/sdf_unit.v|./1_SourceCode/modelsim/tb/sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/delay_buffer.v|./1_SourceCode/modelsim/tb/complex_mul.v|./1_SourceCode/modelsim/tb/butterfly.v|
+Z6 !s90 -reportprogress|300|-work|./1_SourceCode/modelsim/sim/tb_sdf_fft_1024_top|-lint|-hazards|./1_SourceCode/modelsim/tb/butterfly.v|./1_SourceCode/modelsim/tb/complex_mul.v|./1_SourceCode/modelsim/tb/delay_buffer.v|./1_SourceCode/modelsim/tb/sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/sdf_unit.v|./1_SourceCode/modelsim/tb/tb_sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/twiddle_rom_1024.v|
+!i113 1
+Z7 o-work ./1_SourceCode/modelsim/sim/tb_sdf_fft_1024_top -lint -hazards -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+vcomplex_mul
+R1
+!i10b 1
+!s100 h5WUXNa6VM7HGZo@1K60]1
+Iha71m:mVUME^B3=2ClAAK0
+R2
+R0
+w1681546661
+8./1_SourceCode/modelsim/tb/complex_mul.v
+F./1_SourceCode/modelsim/tb/complex_mul.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 ./1_SourceCode/modelsim/tb/twiddle_rom_1024.v|./1_SourceCode/modelsim/tb/tb_sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/sdf_unit.v|./1_SourceCode/modelsim/tb/sdf_fft_1024_top.v|./1_SourceCode/modelsim/tb/delay_buffer.v|./1_SourceCode/modelsim/tb/complex_mul.v|./1_SourceCode/modelsim/tb/butterfly.v|
+R6
+!i113 1
+R7
+R8
+vdelay_buffer
+R1
+!i10b 1
+!s100 VzOdNSDkmm0[ckJfDXgzo2
+IYbf6I8GdVf>Dnbf?<LIM10
+R2
+R0
+w1681707445
+8./1_SourceCode/modelsim/tb/delay_buffer.v
+F./1_SourceCode/modelsim/tb/delay_buffer.v
+Z10 L0 22
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vsdf_fft_1024_top
+R1
+!i10b 1
+!s100 JY0S=XWKnQgZm5U=KkI712
+I4C@VVNgl?FoU^Zd;^2nEP1
+R2
+R0
+w1681798098
+8./1_SourceCode/modelsim/tb/sdf_fft_1024_top.v
+F./1_SourceCode/modelsim/tb/sdf_fft_1024_top.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vsdf_unit
+R1
+!i10b 1
+!s100 L5ie8PogaiU4Z>bbFREGz2
+IRn^X:`^MZ6`QBR<Xk?nMb0
+R2
+R0
+w1681886407
+8./1_SourceCode/modelsim/tb/sdf_unit.v
+F./1_SourceCode/modelsim/tb/sdf_unit.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vtb_sdf_fft_1024_top
+R1
+!i10b 1
+!s100 Szo[jVG>VHmPB3l_4Xh[>2
+IEoLWDZKjll0KK9BH[RUkC2
+R2
+R0
+w1681893379
+8./1_SourceCode/modelsim/tb/tb_sdf_fft_1024_top.v
+F./1_SourceCode/modelsim/tb/tb_sdf_fft_1024_top.v
+R3
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
+vtwiddle_rom_1024
+R1
+!i10b 1
+!s100 eUG_@oE[JREZm4W^BVa=80
+IE>XhKiY0^k1dPVSL:9D^O1
+R2
+R0
+w1681891898
+8./1_SourceCode/modelsim/tb/twiddle_rom_1024.v
+F./1_SourceCode/modelsim/tb/twiddle_rom_1024.v
+R10
+R4
+r1
+!s85 0
+31
+R5
+R9
+R6
+!i113 1
+R7
+R8
